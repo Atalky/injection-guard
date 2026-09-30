@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+
+# Large or generated data (keep the repo small)
+data/
+results/

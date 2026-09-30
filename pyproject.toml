@@ -1,7 +1,7 @@
 [project]
 name = "injection-guard"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automated prompt-injection red-teaming and detection for LLM agents"
 readme = "README.md"
 authors = [
     { name = "Atal Yousafzai", email = "atalkhany@gmail.com" }
